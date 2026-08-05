@@ -1,0 +1,5 @@
+,community_smell_count,community_smell_count,community_smell_count,traditional_smell_count,traditional_smell_count,traditional_smell_count,ml_smell_count,ml_smell_count,ml_smell_count,vulnerability_count,vulnerability_count,vulnerability_count,stqf_global_turnover,stqf_global_turnover,stqf_global_turnover,stqf_ratio_smelly_devs,stqf_ratio_smelly_devs,stqf_ratio_smelly_devs,commits_count,commits_count,commits_count,code_churn,code_churn,code_churn,stqf_devs,stqf_devs,stqf_devs,stqf_st_congruence,stqf_st_congruence,stqf_st_congruence
+,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std,mean,median,std
+has_failed,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+0,0.712,1.0,0.649,1.803,0.0,3.014,0.158,0.0,0.463,0.762,0.0,1.412,0.359,0.4,0.283,0.557,0.613,0.384,19.988,6.0,33.305,13189.838,541.0,41270.849,13.878,6.0,17.789,0.359,0.333,0.33
+1,0.712,1.0,0.633,0.84,0.0,2.013,0.07,0.0,0.309,0.415,0.0,0.998,0.462,0.5,0.261,0.604,0.64,0.322,6.547,2.0,16.584,4217.18,84.0,21391.355,25.373,15.0,27.127,0.339,0.286,0.276

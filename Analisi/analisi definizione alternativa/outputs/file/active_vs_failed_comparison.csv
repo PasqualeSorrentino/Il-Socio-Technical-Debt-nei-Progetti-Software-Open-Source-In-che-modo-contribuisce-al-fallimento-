@@ -1,0 +1,12 @@
+,ACTIVE,FAILED,diff%
+avg_community_smells,0.617,0.717,16.076
+avg_trad_smells,2.269,1.81,-20.251
+avg_ml_smells,0.192,0.132,-31.348
+avg_vuln,0.831,0.641,-22.886
+avg_turnover,0.256,0.264,2.855
+avg_churn,13726.546,12157.907,-11.428
+n_developers,42.367,26.066,-38.476
+avg_smelly_devs,0.52,0.618,18.799
+avg_st_congruence,0.426,0.315,-26.095
+avg_density,0.601,0.519,-13.777
+avg_smelly_quitters,0.184,0.189,2.475
